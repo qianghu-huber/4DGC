@@ -2,6 +2,8 @@
 
 [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Zihan Zheng, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
 
+Project page: https://waveviewer.github.io/4dgc/ 
+
 This is the official repo of the paper [4DGC](https://arxiv.org/abs/2503.18421).
 
 Code will be released soon.
